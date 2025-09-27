@@ -1,2 +1,2 @@
 # NewCodingBot
-new repo
+This Is My First Repo
