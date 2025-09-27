@@ -1,2 +1,3 @@
 # NewCodingBot
-This Is My First Repo
+This Is My First Git Repository
+Author : Anil Bhnadare
